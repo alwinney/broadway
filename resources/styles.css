@@ -1,0 +1,57 @@
+body {
+  font-family: helvetica;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: black;
+}
+
+h3, h4 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h3 {
+  color: white;
+  font-weight: bold;
+  background-image: url("/Users/alanwinney/Documents/HTML/broadway/images/the-flatiron-building.png");
+}
+
+h4 {
+  color: black;
+}
+
+h1, h2, h3, h4, p {
+  text-align: center;
+}
+
+p {
+  font-size: 14px;
+}
+
+.header {
+    background-image: url("/Users/alanwinney/Documents/HTML/broadway/images/the-flatiron-building.png");
+}
+
+a {
+  font-size: 24px;
+  color: white;
+}
+
+footer {
+  text-align: left;
+  background-color: dimgray;
+}
+
+span {
+  font-size: 11px;
+  color: white;
+}
